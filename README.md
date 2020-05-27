@@ -2,6 +2,7 @@
 
 - [Superleague Ruby on Rails](#superleague-ruby-on-rails)
   - [Installation](#installation)
+    - [Redirect Ports](#redirect-ports)
   - [Generate Models](#generate-models)
 
 ## Installation
@@ -33,6 +34,11 @@ Add the package to the Gemfile.
 gem 'mongoid', '~> 7.0.5'
 gem 'semantic-ui-sass', '>= 2.4.2.0'
 ```
+
+### Redirect Ports
+
+https://manual.uberspace.de/web-backends.html#backends
+
 
 ## Generate Models
 
