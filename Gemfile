@@ -6,7 +6,7 @@ ruby '2.6.4'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails'
 # Use Puma as the app server
-gem 'puma'
+gem 'puma', '~> 4.3.5'
 # Use SCSS for stylesheets
 gem 'sass-rails'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
